@@ -1,4 +1,5 @@
-[Link to Netlify deployment]: (https://ecstatic-pasteur-d28442.netlify.com/)
+Link to Netlify deployment: (https://ecstatic-pasteur-d28442.netlify.com/)
+
 # React 12 - Lifting State Up - Challenge
 
 As usual, you'll find all the components under the `src` folder:
